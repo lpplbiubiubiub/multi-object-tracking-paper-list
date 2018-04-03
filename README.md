@@ -33,7 +33,7 @@ Robust Collaborative Model and Sample Selection"[[paper]](https://users.encs.con
 **OMPTTH** : Jianming Zhang, Liliana Lo Presti and Stan Sclaroff, "Online Multi-Person Tracking by Tracker Hierarchy," [[paper]]() [[code]](http://cs-people.bu.edu/jmzhang/tracker_hierarchy/Tracker_Hierarchy.htm) Proc. Int. Conf. on Advanced Video and Signal Based Surveillance (AVSS), 2012.<br>
 **SMOT** : C. Dicle, O. Camps, M. Sznaier. "The Way They Move: Tracking Targets with Similar Appearance" [[paper]](https://www.cv-foundation.org/openaccess/content_iccv_2013/papers/Dicle_The_Way_They_2013_ICCV_paper.pdf) [[code]](https://bitbucket.org/cdicle/smot) In ICCV, 2013.<br>
 **HAF** : Ju, Jaeyong, et al. "Online Multi-Object Tracking based on Hierarchical Association Framework." Proceedings of the IEEE Conference on Computer Vision and Pattern Recognition Workshops. 2016. [[paper]](http://openaccess.thecvf.com/content_cvpr_2016_workshops/w20/papers/Ju_Online_Multi-Object_Tracking_CVPR_2016_paper.pdf) In CVPR, 2016w<br>
-**RAN** : Fang K, Xiang Y, Savarese S. Recurrent Autoregressive Networks for Online Multi-Object Tracking[J]. arXiv preprint arXiv:1711.02741, 20 [[paper]](https://arxiv.org/pdf/1711.02741.pdf)
+**RAN** : Fang K, Xiang Y, Savarese S. Recurrent Autoregressive Networks for Online Multi-Object Tracking[J]. arXiv preprint arXiv:1711.02741, 20 [[paper]](https://arxiv.org/pdf/1711.02741.pdf) In WACV 2018<br>
 ## Private Detection
 **POI** : F. Yu, W. Li, Q. Li, Y. Liu, X. Shi, J. Yan. "POI: Multiple Object Tracking with High Performance Detection and Appearance Feature" [[paper]](https://arxiv.org/pdf/1610.06136.pdf) [[detection]](https://drive.google.com/open?id=0B5ACiy41McAHMjczS2p0dFg3emM) In BMTT, SenseTime Group Limited, 2016<br>
 ## New papers
